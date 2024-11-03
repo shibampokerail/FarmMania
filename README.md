@@ -1,4 +1,5 @@
 # Assets
+- Homepage and pause menu gifs are from @anasabdin.(one of the greatest ones out there..)
 - Map ITCH.IO Kijosoft
 - Reddit (I could not find the link that I used for sprites but I know that I got it from reddit)
 - Most of the music is from RJPASIN and Flawed Mangoes.
